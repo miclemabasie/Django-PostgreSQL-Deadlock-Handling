@@ -77,9 +77,9 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "deadlocks",
-        "USER": 'miclem',
-        "PASSWORD": '1234',
-        "HOST": 'localhost',
+        "USER": "",
+        "PASSWORD": "",
+        "HOST": "localhost",
         "PORT": 5432,
     }
 }
