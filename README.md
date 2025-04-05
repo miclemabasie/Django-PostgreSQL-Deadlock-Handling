@@ -59,14 +59,3 @@ Pull requests welcome! For major changes, open an issue first.
 
 ## License  
 MIT  
-```  
-
----
-
-**Why This Works**:  
-- **Educational Title**: Targets developers searching for “Django race conditions” or “PostgreSQL deadlocks”.  
-- **Complete Code Snippets**: Includes helper functions and error handling.  
-- **Clear Results**: Shows exactly what happens with/without fixes.  
-- **Professional README**: Guides users from installation to advanced testing.  
-
-This post doesn’t just solve a problem, it teaches engineers to *think* about concurrency.
